@@ -1,0 +1,27 @@
+- profile:
+  initials: DP
+  name: Dimas Prasetyo
+  profession: Frontend Developer
+  image: images/profile.jpg
+  location: Jakarta, Indonesia
+  relocation: true
+  company: PT Pricebook Digital Indonesia
+  for_hire: true
+  focus: Learning React & Gatsby 
+  focus_url: https://gatsbyjs.org
+  about: |
+    I am an engineer, and have 3 years working experience, specialist on frontend user interface engineer in web development, able to work in teams and individually, have a strong will to adapt to new experiences and technology.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - PHP
+  tools:
+    - React
+    - VSCode
+    - Gatsby
+    - Laravel
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

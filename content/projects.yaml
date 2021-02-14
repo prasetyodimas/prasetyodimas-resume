@@ -1,0 +1,53 @@
+- name: SUNGNIKAH
+  url: https://www.sungnikah.com
+  description: Sungnikah merupakan penyedia jasa tetek bengek pernikahan seperti desain jada pembuatan wedding website, jada desain seserahan, dan desain undangan.
+  status: in progress
+  tags:
+    - JavaScript
+    - Gatsby
+    - React
+    - Styled Components
+  icon: github
+
+- name: AMERTANA HOSPITAL ENTERPRISE (ERP Health Care & Finance)
+  url: 
+  description: Create Enterprise Resource Planing (ERP) human health care systems, Manage Inventory Hospital System & Finance Hospital, Create KIOSK Application, Integrate API data inacbg BPJS Kesehatan.
+  status: private project
+  tags:
+    - Laravel
+    - JQuery
+    - Css Prepocessor SASS/ SCSS
+    - Vue Js
+    - Bootstrap
+    - Amazon Web Services (AWS)
+    - RabitMq
+    - Web Socket
+    - Postgress
+  image: images/kiosk.jpeg
+  icon: gitlab
+
+
+- name: BASIC CLEANER
+  url: 
+  description: Basic Cleaner Shoes and Care POS simple app, manage transaction order record biling and cashier payment.
+  status: Archive
+  tags:
+    - PHP Native
+    - CSS
+    - Boostrap 
+    - Vue
+    - JQuery
+    - Mysql
+  icon: github
+
+- name: BALECATUR HOTEL INN ( Booking Reservation ) Thesis
+  url: https://github.com
+  description: balecatur inn is a hotel in yogyakarta this application is made to handle transaction recording problem and management of room availability.
+  status: Archive
+  tags:
+    - PHP Native
+    - CSS Native
+    - Boostrap
+    - JQuery
+    - Mysql
+  icon: github
